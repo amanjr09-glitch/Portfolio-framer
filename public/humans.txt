@@ -1,0 +1,38 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | デザイナー
+
+Vaibhav Pal
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+https://twitter.com/Vxibhxv_?t=BJKZ_R-m8tsywk6hIAmgMg&s=09
+github.com/amanjr00-glitch
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+Hiragino Kaku Gothic
